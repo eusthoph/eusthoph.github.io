@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eusthoph.github.io/sitemap.eusthoph.gz
+Sitemap: https://eusthoph.github.io/app/sitemap.eusthoph.gz
+Sitemap: https://eusthoph.github.io/assets/sitemap.eusthoph.gz
+Sitemap: https://eusthoph.github.io/css/sitemap.eusthoph.gz
+Sitemap: https://eusthoph.github.io/data/sitemap.eusthoph.gz
+Sitemap: https://eusthoph.github.io/includes/sitemap.eusthoph.gz
+Sitemap: https://eusthoph.github.io/item/sitemap.eusthoph.gz
+Sitemap: https://eusthoph.github.io/src/sitemap.eusthoph.gz
